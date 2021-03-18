@@ -7,7 +7,10 @@
  */
 
 // Your code:
-
+function id (){
+    
+}
+return ;
 //* Begin of tests
 const assert = require('assert');
 
